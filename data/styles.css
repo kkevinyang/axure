@@ -63,6 +63,8 @@
 }
 .line {
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -73,6 +75,15 @@
 }
 .list_box {
   color:#000000;
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+.sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
   text-align:left;
 }
 .marker {
