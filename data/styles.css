@@ -13,6 +13,13 @@
 }
 ._图片_ {
 }
+.placeholder {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -69,6 +76,10 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
@@ -77,8 +88,19 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
 .html_button {
   text-align:center;
+}
+.tree_node {
+  text-align:left;
+}
+.table_cell {
 }
 .sticky_1 {
   text-align:left;
@@ -138,7 +160,7 @@
 .radio-check {
 }
 .radio-label-check {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -149,7 +171,7 @@
   color:#333333;
 }
 .radio-label-uncheck {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -157,7 +179,7 @@
   text-align:left;
 }
 .input-placeholder {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -165,7 +187,7 @@
   text-align:left;
 }
 .input-textarea {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -173,7 +195,7 @@
   text-align:left;
 }
 .checkbox-label-uncheck {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -183,7 +205,7 @@
 .checkbox-uncheck {
 }
 .checkbox-label-check {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -207,7 +229,7 @@
   text-align:center;
 }
 .tag-warning {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -215,7 +237,7 @@
   text-align:center;
 }
 .tag-info {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -223,7 +245,7 @@
   text-align:center;
 }
 .tag-danger {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -231,7 +253,7 @@
   text-align:center;
 }
 .tag {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -239,14 +261,14 @@
   text-align:center;
 }
 .inputed {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:#606266;
   text-align:left;
 }
-.table_cell {
+.table_cell1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:normal;
   font-style:normal;
@@ -256,7 +278,7 @@
 .line1 {
 }
 .h14-black {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -283,7 +305,7 @@
   text-align:center;
 }
 .tooltip {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:13px;
